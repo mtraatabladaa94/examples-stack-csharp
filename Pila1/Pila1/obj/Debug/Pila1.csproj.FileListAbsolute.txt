@@ -1,0 +1,7 @@
+c:\users\mtraatablada\documents\visual studio 2012\Projects\Pila1\Pila1\bin\Debug\Pila1.exe.config
+c:\users\mtraatablada\documents\visual studio 2012\Projects\Pila1\Pila1\bin\Debug\Pila1.exe
+c:\users\mtraatablada\documents\visual studio 2012\Projects\Pila1\Pila1\bin\Debug\Pila1.pdb
+c:\users\mtraatablada\documents\visual studio 2012\Projects\Pila1\Pila1\obj\Debug\Pila1.exe
+c:\users\mtraatablada\documents\visual studio 2012\Projects\Pila1\Pila1\obj\Debug\Pila1.pdb
+C:\Users\mtraatablada\Documents\Visual Studio 2012\Projects\Pila1\Pila1\obj\Debug\Pila1.csprojAssemblyReference.cache
+C:\Users\mtraatablada\Documents\Visual Studio 2012\Projects\Pila1\Pila1\obj\Debug\Pila1.csproj.CoreCompileInputs.cache
